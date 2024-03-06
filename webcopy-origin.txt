@@ -1,0 +1,1084 @@
+Uri: https://fonts.googleapis.com/css2?family=Allura&display=swap
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/allura/v21/9oRPNYsQpS4zjuAPjA.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\allura\v21\9oRPNYsQpS4zjuAPjA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCNI0.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCNI0.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCNI0.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CNI0.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FNI0.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFNI0.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FNI0.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FNI0.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mwjIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mwjJQVG.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mwjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mwKIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mz9JQVG.ttf
+Content Type: font/ttf
+
+Uri: https://uomo-html.flexkitux.com/Demo1/404.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\404.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/about.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\about.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/account_dashboard.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\account_dashboard.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/account_edit.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\account_edit.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/account_edit_address.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\account_edit_address.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/account_orders.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\account_orders.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/account_wishlist.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\account_wishlist.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/blog_list1.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\blog_list1.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/blog_list2.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\blog_list2.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/blog_list3.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\blog_list3.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/blog_single.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\blog_single.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/coming_soon.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\coming_soon.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/contact.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\contact.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/css/plugins/flaticon.css
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\css\plugins\flaticon.css
+Content Type: text/css
+
+Uri: https://uomo-html.flexkitux.com/Demo1/css/plugins/Flaticon.eot
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\css\plugins\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uomo-html.flexkitux.com/Demo1/css/plugins/Flaticon.eot?
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\css\plugins\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uomo-html.flexkitux.com/Demo1/css/plugins/Flaticon.svg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\css\plugins\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://uomo-html.flexkitux.com/Demo1/css/plugins/Flaticon.ttf
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\css\plugins\Flaticon.ttf
+Content Type: application/octet-stream
+
+Uri: https://uomo-html.flexkitux.com/Demo1/css/plugins/Flaticon.woff
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\css\plugins\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://uomo-html.flexkitux.com/Demo1/css/plugins/Flaticon.woff2
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\css\plugins\Flaticon.woff2
+Content Type: application/octet-stream
+
+Uri: https://uomo-html.flexkitux.com/Demo1/css/plugins/jquery.fancybox.css
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\css\plugins\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://uomo-html.flexkitux.com/Demo1/css/plugins/swiper.min.css
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\css\plugins\swiper.min.css
+Content Type: text/css
+
+Uri: https://uomo-html.flexkitux.com/Demo1/css/style.css
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\css\style.css
+Content Type: text/css
+
+Uri: https://uomo-html.flexkitux.com/Demo1/faq.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\faq.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/fonts/SofiaProBold.woff
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\fonts\SofiaProBold.woff
+Content Type: application/font-woff
+
+Uri: https://uomo-html.flexkitux.com/Demo1/index.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\index.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/js/details-disclosure.js
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\js\details-disclosure.js
+Content Type: application/javascript
+
+Uri: https://uomo-html.flexkitux.com/Demo1/js/googlemap-setting.js
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\js\googlemap-setting.js
+Content Type: application/javascript
+
+Uri: https://uomo-html.flexkitux.com/Demo1/js/plugins/bootstrap-slider.min.js
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\js\plugins\bootstrap-slider.min.js
+Content Type: application/javascript
+
+Uri: https://uomo-html.flexkitux.com/Demo1/js/plugins/bootstrap.bundle.min.js
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\js\plugins\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://uomo-html.flexkitux.com/Demo1/js/plugins/countdown.js
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\js\plugins\countdown.js
+Content Type: application/javascript
+
+Uri: https://uomo-html.flexkitux.com/Demo1/js/plugins/jquery.fancybox.js
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\js\plugins\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: https://uomo-html.flexkitux.com/Demo1/js/plugins/jquery.min.js
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\js\plugins\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://uomo-html.flexkitux.com/Demo1/js/plugins/swiper.min.js
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\js\plugins\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://uomo-html.flexkitux.com/Demo1/js/share.js
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\js\share.js
+Content Type: application/javascript
+
+Uri: https://uomo-html.flexkitux.com/Demo1/js/theme.js
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\js\theme.js
+Content Type: application/javascript
+
+Uri: https://uomo-html.flexkitux.com/Demo1/login_register.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\login_register.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/lookbook.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\lookbook.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product10_v5.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product10_v5.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product11_v6.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product11_v6.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product12_v7.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product12_v7.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product13_v8.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product13_v8.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product14_v9.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product14_v9.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product15_v10.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product15_v10.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product16_v11.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product16_v11.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product1_simple.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product1_simple.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product2_variable.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product2_variable.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product3_external.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product3_external.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product4_grouped.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product4_grouped.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product5_onsale.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product5_onsale.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product6_outofstock.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product6_outofstock.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product7_v2.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product7_v2.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product8_v3.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product8_v3.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/product9_v4.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\product9_v4.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/reset_password.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\reset_password.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop1.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop1.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop10.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop10.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop11.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop11.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop12.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop12.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop2.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop2.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop3.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop3.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop4.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop4.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop5.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop5.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop6.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop6.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop7.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop7.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop8.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop8.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop9.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop9.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop_cart.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop_cart.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop_checkout.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop_checkout.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop_order_complete.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop_order_complete.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/shop_order_tracking.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\shop_order_tracking.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/store_location.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\store_location.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/Demo1/terms.html
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\Demo1\terms.html
+Content Type: text/html
+
+Uri: https://uomo-html.flexkitux.com/images/about/about-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\about\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/about/about-2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\about\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/avatar.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/banner_1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\banner_1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/banner_2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\banner_2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-10.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-10.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-11.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-11.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-12.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-12.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-13.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-13.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-14.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-14.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-15.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-15.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-16.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-16.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-3.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-4.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-5.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-5.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-6.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-6.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-7.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-7.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-8.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-8.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog/blog-9.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog\blog-9.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/blog_title_bg.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\blog_title_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/brands/brand1.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\brands\brand1.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/brands/brand2.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\brands\brand2.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/brands/brand3.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\brands\brand3.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/brands/brand4.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\brands\brand4.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/brands/brand5.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\brands\brand5.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/brands/brand6.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\brands\brand6.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/brands/brand7.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\brands\brand7.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/cart-item-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\cart-item-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/cart-item-2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\cart-item-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/cart-item-3.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\cart-item-3.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/collection_grid_1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\collection_grid_1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/collection_grid_2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\collection_grid_2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/collection_grid_3.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\collection_grid_3.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/deal_timer_bg.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\deal_timer_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/favicon.ico
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://uomo-html.flexkitux.com/images/home/demo1/product-0-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\home\demo1\product-0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/home/demo1/product-1-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\home\demo1\product-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/home/demo1/product-2-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\home\demo1\product-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/home/demo1/product-3-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\home\demo1\product-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/home/demo10/slider_bg.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\home\demo10\slider_bg.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/home/demo3/slider_bg.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\home\demo3\slider_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/instagram/insta1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\instagram\insta1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/instagram/insta10.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\instagram\insta10.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/instagram/insta11.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\instagram\insta11.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/instagram/insta12.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\instagram\insta12.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/instagram/insta2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\instagram\insta2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/instagram/insta3.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\instagram\insta3.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/instagram/insta4.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\instagram\insta4.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/instagram/insta5.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\instagram\insta5.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/instagram/insta6.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\instagram\insta6.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/instagram/insta7.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\instagram\insta7.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/instagram/insta8.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\instagram\insta8.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/instagram/insta9.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\instagram\insta9.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/logo-white.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\logo-white.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/logo.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\logo.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/lookbook/lookbook-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\lookbook\lookbook-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/lookbook/lookbook-2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\lookbook\lookbook-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/lookbook/lookbook-3.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\lookbook\lookbook-3.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/lookbook/lookbook-4.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\lookbook\lookbook-4.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/lookbook/lookbook-5.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\lookbook\lookbook-5.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/lookbook/lookbook-6.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\lookbook\lookbook-6.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/mega-menu-item.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\mega-menu-item.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/nav-bg.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\nav-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/newsletter-popup.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\newsletter-popup.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/pattern_bg.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\pattern_bg.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/payment-options.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\payment-options.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-17-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-17-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-17-2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-17-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-18-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-18-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-19-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-19-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-19-2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-19-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-19-3.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-19-3.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-20-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-20-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-20-2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-20-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-21-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-21-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-21-2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-21-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-22-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-22-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-22-2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-22-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-22-3.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-22-3.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-23-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-23-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-24-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-24-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-25-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-25-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-26-1.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-26-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-26-2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-26-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-27-1.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-27-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-27-2.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-27-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-28-1.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-28-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-28-2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-28-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-29-1.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-29-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-29-2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-29-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-30-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-30-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-31-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-31-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-32-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-32-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-33-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-33-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-35-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-35-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-36-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-36-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-37-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-37-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-38-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-38-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-39-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-39-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-40-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-40-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-41-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-41-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-42-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-42-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-43.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-43.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-44.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-44.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-45.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-45.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/products/product-46.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product-46.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0-10.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0-10.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0-11.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0-11.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0-12.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0-12.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0-13.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0-13.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0-2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0-2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0-3.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0-3.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0-4.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0-4.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0-5.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0-5.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0-6.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0-6.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0-7.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0-7.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0-8.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0-8.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0-9.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0-9.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_0.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_0.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_1-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_10-1.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_10-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_10.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_10.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_11-1.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_11-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_11.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_11.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_12-1.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_12-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_12.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_12.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_13-1.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_13-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_13.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_13.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_14-1.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_14-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_14.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_14.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_15-1.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_15-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_15.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_15.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_16-1.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_16-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_16.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_16.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_2-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_3-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_3.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_3.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_4-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_4.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_4.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_5-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_5.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_5.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_6-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_6.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_6.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_7-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_7.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_7.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_8-1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_8.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_8.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_9-1.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_9-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/product_9.jpeg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\product_9.jpeg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/quickview_1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\quickview_1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/quickview_2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\quickview_2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/quickview_3.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\quickview_3.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/quickview_4.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\quickview_4.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/swatch_0.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\swatch_0.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/swatch_1.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\swatch_1.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/products/swatch_2.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\products\swatch_2.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/shop/category-item1.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\shop\category-item1.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/shop/category-item2.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\shop\category-item2.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/shop/category-item3.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\shop\category-item3.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/shop/category-item4.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\shop\category-item4.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/shop/category-item5.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\shop\category-item5.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/shop/category-item6.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\shop\category-item6.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/shop/category-item7.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\shop\category-item7.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/shop/category-item8.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\shop\category-item8.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/shop/shop_banner3.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\shop\shop_banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/shop/shop_banner6.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\shop\shop_banner6.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/shop/shop_banner8.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\shop\shop_banner8.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/shop/shop_banner_2.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\shop\shop_banner_2.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/shop/shop_banner_character1.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\shop\shop_banner_character1.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/size-guide.jpg
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\size-guide.jpg
+Content Type: image/jpeg
+
+Uri: https://uomo-html.flexkitux.com/images/slideshow-character1.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\slideshow-character1.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/slideshow-character2.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\slideshow-character2.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/images/slideshow-pattern.png
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\images\slideshow-pattern.png
+Content Type: image/png
+
+Uri: https://uomo-html.flexkitux.com/videos/video_2.mp4
+File Name: G:\webcopyfiles\wuzuinternational\uomo-html.flexkitux.com\videos\video_2.mp4
+Content Type: video/mp4
+
